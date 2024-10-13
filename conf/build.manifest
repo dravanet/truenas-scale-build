@@ -578,8 +578,8 @@ sources:
   repo: https://github.com/truenas/swagger
   branch: release/24.10.0
 - name: truenas
-  repo: https://github.com/truenas/middleware
-  branch: release/24.10.0
+  repo: https://github.com/dravanet/truenas-middleware
+  branch: release/24.10.0-dravanet
   subdir: debian
   subpackages:
     - name: middlewared
